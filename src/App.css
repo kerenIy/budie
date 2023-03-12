@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  background-color: #2e4f4f;
+  color: white;
+}
+.mobile {
+  background-color: #cbe4de;
+}
+.color {
+  background-color: #2e4f4f;
+  color: #ffff;
+}
+.m-15 {
+  margin: 15px;
+  padding: 10px;
+}
+.m-13 {
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 7px;
+}
+.m-30 {
+  margin-left: 65px;
+  margin-right: 65px;
+  margin-top: 40px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+  margin-left: 25px;
+}
+
+.button {
+  border: 1px solid transparent;
+  padding: 10px;
+  text-transform: capitalize;
+  margin-left: 5px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.logo {
+  font-weight: 600;
+  font-size: 1.2em;
+  text-transform: none;
+}
+
+.image {
+  width: 650px;
+  height: 500px;
+}
+
+.header-text {
+  font-size: 1.9em;
+  font-weight: 600;
+}
+
+.companies {
+  width: 200px;
+  height: 200px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.border-right {
+  border-right: 3px solid #2e4f4f;
+  padding-right: 7px;
+  padding-left: 7px;
+}
+
+.bold {
+  font-weight: 600;
+  font-size: 0.9em;
+  color: #2e4f4f;
+}
+.not-bold {
+  font-weight: 300;
+  font-size: 0.75em;
+}
+.normal {
+  font-size: 0.95em;
+}
+
+.head-text {
+  font-weight: 600;
+  font-size: 1.3em;
+  text-transform: capitalize;
+}
+
+.box {
+  border: 1px solid #2c3333;
+  color: #2c3333;
+  padding: 15px;
+}
+.box i {
+  color: #0e8388;
+  border: 1px solid #cbe4de;
+  background-color: #cbe4de;
+  padding: 5px;
+  border-radius: 100%;
+}
+.store {
+  height: 150px;
+  width: 150px;
+}
+
+.lists {
+  list-style: none;
+}
