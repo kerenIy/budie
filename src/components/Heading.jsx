@@ -1,5 +1,5 @@
 import React from "react";
-import header from "https://kerenIy.github.io/src/header-img.svg";
+import header from "https://kerenIy.github.io/budie/src/header-img.svg";
 
 function Heading() {
   return (
