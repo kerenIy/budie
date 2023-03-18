@@ -1,10 +1,10 @@
 import React from "react";
 
-import microsoft from "../assets/microsoft 1.svg";
-import flutterwave from "../assets/flutter 1.svg";
+import microsoft from "https://kerenIy.github.io/budie/src/assets/microsoft 1.svg";
+import flutterwave from "https://kerenIy.github.io/budie/src/assets/flutter 1.svg";
 
-import netflix from "../assets/netflix 1.svg";
-import google from "../assets/google 1.svg";
+import netflix from "https://kerenIy.github.io/budie/src/assets/netflix 1.svg";
+import google from "https://kerenIy.github.io/budie/src/assets/google 1.svg";
 
 function Partners() {
   return (
