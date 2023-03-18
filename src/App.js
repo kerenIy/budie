@@ -1,13 +1,13 @@
-import "./App.css";
+import "https://kerenIy.github.io/src/App.css";
 
-import Navigation from "./components/Navigation";
-import Heading from "./components/Heading";
+import Navigation from "https://kerenIy.github.io/src/components/Navigation";
+import Heading from "https://kerenIy.github.io/src/components/Heading";
 
-import Partners from "./components/Partners";
-import Features from "./components/Features";
+import Partners from "https://kerenIy.github.io/src/components/Partners";
+import Features from "https://kerenIy.github.io/src/components/Features";
 
-import Mobile from "./components/Mobile";
-import Footer from "./components/Footer";
+import Mobile from "https://kerenIy.github.io/src/components/Mobile";
+import Footer from "https://kerenIy.github.io/src/components/Footer";
 
 function App() {
   return (
