@@ -1,8 +1,8 @@
 import React from "react";
 
-import mobile from "https://kerenIy.github.io/src/assets/final.png";
-import apple from "https://kerenIy.github.io/src/assets/appstore.svg";
-import playstore from "https://kerenIy.github.io/src/assets/playstore.svg";
+import mobile from "https://kerenIy.github.io/budie/src/assets/final.png";
+import apple from "https://kerenIy.github.io/budie/src/assets/appstore.svg";
+import playstore from "https://kerenIy.github.io/budie/src/assets/playstore.svg";
 
 function Mobile() {
   return (
